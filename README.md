@@ -1,10 +1,5 @@
 ```text
-███████╗ ██████╗ ███████╗██╗  ██╗
-██╔════╝██╔════╝ ██╔════╝██║ ██╔╝
-█████╗  ██║  ███╗█████╗  █████╔╝
-██╔══╝  ██║   ██║██╔══╝  ██╔═██╗
-███████╗╚██████╔╝███████╗██║  ██╗
-╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+Welcome
 ```
 
 <h1 align="center">[ SYSTEM ONLINE ]</h1>
@@ -63,17 +58,8 @@ Tenho interesse especial em entender como os sistemas funcionam por trás das in
 [ ARCHITECTURE  ]  Estrutura de projetos e escalabilidade
 ```
 
-## `03` — PROJETOS
 
-> Meus projetos estarão disponíveis aqui conforme forem desenvolvidos.
-
-| Projeto      | Descrição                             | Tecnologias   |
-| ------------ | ------------------------------------- | ------------- |
-| `project_01` | [Adicione a descrição do seu projeto] | [Tecnologias] |
-| `project_02` | [Adicione a descrição do seu projeto] | [Tecnologias] |
-| `project_03` | [Adicione a descrição do seu projeto] | [Tecnologias] |
-
-## `04` — GITHUB ANALYTICS
+## `03` — GITHUB ANALYTICS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vuekosv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
@@ -84,7 +70,7 @@ Tenho interesse especial em entender como os sistemas funcionam por trás das in
   <img src="https://streak-stats.demolab.com?user=vuekosv&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Sequência de contribuições" />
 </p>
 
-## `05` — CONTRIBUIÇÕES
+## `04` — CONTRIBUIÇÕES
 
 ```text
 $ git log --oneline
@@ -99,7 +85,7 @@ $ git log --oneline
   <img src="https://raw.githubusercontent.com/vuekosv/vuekosv/output/github-contribution-grid-snake-dark.svg" alt="Cobra animada das contribuições do GitHub" />
 </p>
 
-## `06` — CONTATO
+## `05` — CONTATO
 
 <p align="left">
   <a href="https://github.com/vuekosv">
