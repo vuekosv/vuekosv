@@ -10,7 +10,7 @@
 <h1 align="center">[ SYSTEM ONLINE ]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Bem+vindo+ao+meu+perfil...;%3E+Fullstack+Developer+em+forma%C3%A7%C3%A3o;%3E+Foco+em+Backend+%7C+APIs+%7C+Sistemas;%3E+;%3E+Bem-vindo+ao+meu+terminal." alt="Texto animado de terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Bem+vindo+ao+meu+perfil...;%3E+Fullstack+Developer+em+forma%C3%A7%C3%A3o;%3E+Foco+em+Backend+%7C+APIs+%7C+Sistemas;%3E+Bem-vindo+ao+meu+terminal." alt="Texto animado de terminal" />
 </p>
 
 <p align="center">
