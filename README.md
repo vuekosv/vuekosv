@@ -1,103 +1,122 @@
-# 👋 Olá, eu sou Emerson!
+```text
+███████╗ ██████╗ ███████╗██╗  ██╗
+██╔════╝██╔════╝ ██╔════╝██║ ██╔╝
+█████╗  ██║  ███╗█████╗  █████╔╝
+██╔══╝  ██║   ██║██╔══╝  ██╔═██╗
+███████╗╚██████╔╝███████╗██║  ██╗
+╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-### 💻 Desenvolvedor Full Stack em formação | 🇧🇷 Brasil | 🚀 18 anos
+<h1 align="center">[ SYSTEM ONLINE ]</h1>
 
-> "Transformando ideias em código e código em experiências." ⚡
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Inicializando+sistema...;%3E+Fullstack+Developer+em+forma%C3%A7%C3%A3o;%3E+Foco+em+Backend+%7C+APIs+%7C+Sistemas;%3E+Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es;%3E+Bem-vindo+ao+meu+terminal." alt="Texto animado de terminal" />
+</p>
 
-Sou estudante e desenvolvedor **Full Stack**, apaixonado por tecnologia e desenvolvimento de aplicações modernas. 🚀  
-Tenho 18 anos e venho construindo minha experiência através de projetos utilizando **JavaScript, React, Node.js, SQL e muito mais**.  
-Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos funcionais e criativos. 🔥
+<p align="center">
+  <code>root@vuekosv:~$ whoami</code>
+</p>
+
+<p align="center">
+  Desenvolvedor em formação, explorando o mundo da programação,
+  com foco em <b>backend</b>, arquitetura de sistemas e desenvolvimento fullstack.
+</p>
+
+<p align="center">
+  <code>LEARN</code> // <code>BUILD</code> // <code>DEBUG</code> // <code>REPEAT</code>
+</p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## `01` — SOBRE MIM
 
-```javascript
-const developer = {
-    idade: 18,
-    localização: "Brasil 🇧🇷",
-    foco: "Full Stack Development",
-    linguagemPrincipal: "JavaScript",
-    apaixonadoPor: [
-        "Programação",
-        "Tecnologia",
-        "Desenvolvimento Web",
-        "Aplicações Desktop",
-        "Mobile"
-    ],
-    atualmenteAprendendo: "Sempre algo novo 🚀"
-};
+```bash
+$ cat about.txt
 
-🚀 Tecnologias & Ferramentas
-🎨 Front-end
+> Status: Em desenvolvimento
+> Área: Fullstack Development
+> Foco principal: Backend Engineering
+> Interesses: APIs, bancos de dados e arquitetura
+> Objetivo: Construir sistemas eficientes e escaláveis
+> Filosofia: Aprender. Construir. Melhorar.
+```
 
+Estou desenvolvendo minhas habilidades para criar aplicações completas, desde interfaces até a lógica de negócio e a infraestrutura que mantém tudo funcionando.
 
+Tenho interesse especial em entender como os sistemas funcionam por trás das interfaces: APIs, processamento de dados, autenticação, bancos de dados e arquitetura de software.
 
+## `02` — STACK TECNOLÓGICA
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,cpp,nodejs,express,spring,html,css,react,git,github,mysql,postgresql,linux,vscode&theme=dark" alt="Tecnologias de desenvolvimento" />
+</p>
 
-⚙️ Back-end
+> Tecnologias para estudo e desenvolvimento. A lista pode ser ajustada conforme minha experiência evoluir.
 
+### Áreas de interesse
 
-📱 Mobile & Desktop
+```text
+[ BACKEND       ]  APIs REST, lógica de negócio e autenticação
+[ DATABASES     ]  SQL, modelagem e consultas
+[ FRONTEND      ]  Interfaces e integração com APIs
+[ DEVELOPMENT   ]  Git, debugging e boas práticas
+[ ARCHITECTURE  ]  Estrutura de projetos e escalabilidade
+```
 
+## `03` — PROJETOS
 
-🧠 Meu Stack
-JavaScript
-    │
-    ├── 🌐 Front-end
-    │   ├── HTML5
-    │   ├── CSS3
-    │   ├── Bootstrap
-    │   └── React
-    │
-    ├── ⚙️ Back-end
-    │   └── Node.js
-    │
-    ├── 📱 Mobile
-    │   └── React Native
-    │
-    ├── 🖥️ Desktop
-    │   └── Electron
-    │
-    └── 🗄️ Banco de Dados
-        └── SQL
+> Meus projetos estarão disponíveis aqui conforme forem desenvolvidos.
 
-🔥 O que eu gosto de fazer?
-💻 Criar aplicações web modernas
+| Projeto      | Descrição                             | Tecnologias   |
+| ------------ | ------------------------------------- | ------------- |
+| `project_01` | [Adicione a descrição do seu projeto] | [Tecnologias] |
+| `project_02` | [Adicione a descrição do seu projeto] | [Tecnologias] |
+| `project_03` | [Adicione a descrição do seu projeto] | [Tecnologias] |
 
-⚛️ Desenvolver interfaces com React
+## `04` — GITHUB ANALYTICS
 
-📱 Criar aplicações mobile com React Native
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vuekosv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuekosv&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+</p>
 
-🖥️ Desenvolver aplicações desktop com Electron
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vuekosv&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Sequência de contribuições" />
+</p>
 
-⚙️ Criar APIs e back-end com Node.js
+## `05` — CONTRIBUIÇÕES
 
-🗄️ Trabalhar com bancos de dados SQL
+```text
+$ git log --oneline
 
-🧠 Aprender novas tecnologias
+[+] Learning new technologies
+[+] Developing personal projects
+[+] Improving problem-solving skills
+[+] Building the future, one commit at a time
+```
 
-🚀 Transformar ideias em projetos reais
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vuekosv/vuekosv/output/github-contribution-grid-snake-dark.svg" alt="Cobra animada das contribuições do GitHub" />
+</p>
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/> </div>
-⚡ Atualmente
-+ Estudando desenvolvimento Full Stack
-+ Criando projetos com JavaScript
-+ Explorando React e Node.js
-+ Desenvolvendo aplicações Web, Mobile e Desktop
-+ Evoluindo todos os dias 🚀
+## `06` — CONTATO
 
-🌐 Conecte-se comigo
-<div align="center">
-<!-- Adicione aqui suas outras redes --> <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM) --> </div>
-<div align="center">
-💻 while(alive) { code(); learn(); repeat(); } 🚀
-⭐ Obrigado por visitar meu perfil!
+<p align="left">
+  <a href="https://github.com/vuekosv">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+  </a>
+</p>
 
-</div> ```
-✨ Biografia em 3 linhas
-💻 Desenvolvedor Full Stack em formação, apaixonado por transformar ideias em aplicações reais.
-🚀 Trabalho com JavaScript, React, Node.js, React Native, Electron, HTML5, CSS3, Bootstrap e SQL.
-🇧🇷 Tenho 18 anos, moro no Brasil e estou sempre aprendendo, criando e evoluindo através da programação.
+---
 
+<p align="center">
+  <code>Connection established.</code>
+  <br/>
+  <code>End of transmission_</code>
+</p>
