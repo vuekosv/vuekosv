@@ -96,10 +96,10 @@ $ git log --oneline
   <a href="https://github.com/vuekosv">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://steamcommunity.com/id/Katzensee/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:emerson.atfg00@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
   </a>
 </p>
